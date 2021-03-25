@@ -1,5 +1,12 @@
 # my-hackintosh
 
+##
+
+| Category     | Model                         | Official Link                                                                       |
+| ------------ | ----------------------------- | ----------------------------------------------------------------------------------- |
+| Motherboard  | ASUS ROG Maximus XII Formula  | https://rog.asus.com/motherboards/rog-maximus/rog-maximus-xii-formula-model/        |
+|   Chipset    | Intel® Z490                   | https://ark.intel.com/content/www/us/en/ark/products/201834/intel-z490-chipset.html |
+
 ## CPU Model
 
 ```bash
