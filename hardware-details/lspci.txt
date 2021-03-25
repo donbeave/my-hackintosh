@@ -1,0 +1,26 @@
+00:00.0 Host bridge: Intel Corporation Device 9b33 (rev 05)
+00:01.0 PCI bridge: Intel Corporation Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor PCIe Controller (x16) (rev 05)
+00:14.0 USB controller: Intel Corporation Comet Lake USB 3.1 xHCI Host Controller
+00:14.2 RAM memory: Intel Corporation Comet Lake PCH Shared SRAM
+00:14.3 Network controller: Intel Corporation Wi-Fi 6 AX201
+00:15.0 Serial bus controller [0c80]: Intel Corporation Comet Lake PCH Serial IO I2C Controller #0
+00:15.1 Serial bus controller [0c80]: Intel Corporation Comet Lake PCH Serial IO I2C Controller #1
+00:16.0 Communication controller: Intel Corporation Comet Lake HECI Controller
+00:17.0 SATA controller: Intel Corporation Device 06d2
+00:1b.0 PCI bridge: Intel Corporation Comet Lake PCI Express Root Port #17 (rev f0)
+00:1c.0 PCI bridge: Intel Corporation Device 06b8 (rev f0)
+00:1c.4 PCI bridge: Intel Corporation Device 06bc (rev f0)
+00:1c.6 PCI bridge: Intel Corporation Device 06be (rev f0)
+00:1c.7 PCI bridge: Intel Corporation Device 06bf (rev f0)
+00:1d.0 PCI bridge: Intel Corporation Comet Lake PCI Express Root Port #9 (rev f0)
+00:1f.0 ISA bridge: Intel Corporation Device 0685
+00:1f.3 Audio device: Intel Corporation Comet Lake PCH cAVS
+00:1f.4 SMBus: Intel Corporation Comet Lake PCH SMBus Controller
+00:1f.5 Serial bus controller [0c80]: Intel Corporation Comet Lake PCH SPI Controller
+01:00.0 PCI bridge: Advanced Micro Devices, Inc. [AMD/ATI] Navi 10 XL Upstream Port of PCI Express Switch (rev c5)
+02:00.0 PCI bridge: Advanced Micro Devices, Inc. [AMD/ATI] Navi 10 XL Downstream Port of PCI Express Switch
+03:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Navi 14 [Radeon RX 5500/5500M / Pro 5500M] (rev c5)
+03:00.1 Audio device: Advanced Micro Devices, Inc. [AMD/ATI] Navi 10 HDMI Audio
+06:00.0 Ethernet controller: Aquantia Corp. AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion] (rev 02)
+07:00.0 Ethernet controller: Intel Corporation Device 15f3 (rev 02)
+08:00.0 USB controller: ASMedia Technology Inc. ASM2142 USB 3.1 Host Controller
