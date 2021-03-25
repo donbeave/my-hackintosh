@@ -2,17 +2,16 @@
 
 ##
 
-| Category     | Model                                         | Code | Official Link                                                                |
-| ------------ | --------------------------------------------- | ---------------------------------------------------------------------------- |
-| Motherboard  | ASUS ROG Maximus XII Formula                  | -                             | https://rog.asus.com/motherboards/rog-maximus/rog-maximus-xii-formula-model/ |
-|   Chipset    | Intel® Z490                                   | -                             | https://ark.intel.com/content/www/us/en/ark/products/201834/intel-z490-chipset.html |
-| CPU          | Intel® Core™ i9-10900K Processor              | -                             | https://ark.intel.com/content/www/us/en/ark/products/199332/intel-core-i9-10900k-processor-20m-cache-up-to-5-30-ghz.html |
-| CPU Cooler   | ASUS Rog Ryujin 360                           | -                             | https://rog.asus.com/cooling/cpu-liquid-coolers/rog-ryujin/rog-ryujin-360-model/ |
+| Category     | Model                                         | Code                          | Official Link             |
+| ------------ | --------------------------------------------- | ----------------------------- | ------------------------- |
+| Motherboard  | ASUS ROG Maximus XII Formula                  |                               | https://rog.asus.com/motherboards/rog-maximus/rog-maximus-xii-formula-model/ |
+|   Chipset    | Intel® Z490                                   |                               | https://ark.intel.com/content/www/us/en/ark/products/201834/intel-z490-chipset.html |
+| CPU          | Intel® Core™ i9-10900K Processor              |                               | https://ark.intel.com/content/www/us/en/ark/products/199332/intel-core-i9-10900k-processor-20m-cache-up-to-5-30-ghz.html |
+| CPU Cooler   | ASUS Rog Ryujin 360                           |                               | https://rog.asus.com/cooling/cpu-liquid-coolers/rog-ryujin/rog-ryujin-360-model/ |
 | Memory       | HyperX Fury Black 64GB 3600MHz DDR4 CL18 DIMM | HX436C18FB3K2/64              | https://www.hyperxgaming.com/us/memory/fury-ddr4 |
 | Video Card   | ASUS ROG Strix Radeon RX 5500 XT              | ROG-STRIX-RX5500XT-O8G-GAMING | https://rog.asus.com/hk-en/graphics-cards/graphics-cards/rog-strix/rog-strix-rx5500xt-o8g-gaming-model/ |
-| Keyboard     | Logitech Craft                                | -                             | https://www.logitech.com/en-us/products/keyboards/craft.920-008484.html |
-| Mouse        | Logitech MX Master 3                          | -                             | https://www.logitech.com/en-us/products/mice/mx-master-3.910-005620.html
-
+| Keyboard     | Logitech Craft                                |                               | https://www.logitech.com/en-us/products/keyboards/craft.920-008484.html |
+| Mouse        | Logitech MX Master 3                          |                               | https://www.logitech.com/en-us/products/mice/mx-master-3.910-005620.html
 
 ## CPU Model
 
