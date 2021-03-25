@@ -2,10 +2,13 @@
 
 ##
 
-| Category     | Model                         | Official Link                                                                       |
-| ------------ | ----------------------------- | ----------------------------------------------------------------------------------- |
-| Motherboard  | ASUS ROG Maximus XII Formula  | https://rog.asus.com/motherboards/rog-maximus/rog-maximus-xii-formula-model/        |
-|   Chipset    | Intel® Z490                   | https://ark.intel.com/content/www/us/en/ark/products/201834/intel-z490-chipset.html |
+| Category     | Model                            | Official Link                                                                |
+| ------------ | -------------------------------- | ---------------------------------------------------------------------------- |
+| Motherboard  | ASUS ROG Maximus XII Formula     | https://rog.asus.com/motherboards/rog-maximus/rog-maximus-xii-formula-model/ |
+|   Chipset    | Intel® Z490                      | https://ark.intel.com/content/www/us/en/ark/products/201834/intel-z490-chipset.html |
+| CPU          | Intel® Core™ i9-10900K Processor | https://ark.intel.com/content/www/us/en/ark/products/199332/intel-core-i9-10900k-processor-20m-cache-up-to-5-30-ghz.html |
+| CPU Cooler   | ASUS Rog Ryujin 360              | https://rog.asus.com/cooling/cpu-liquid-coolers/rog-ryujin/rog-ryujin-360-model/ |
+| Memory       | HyperX Fury Black 64GB 3600MHz DDR4 CL18 DIMM | https://www.hyperxgaming.com/us/memory/fury-ddr4 |
 
 ## CPU Model
 
