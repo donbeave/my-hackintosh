@@ -90,7 +90,7 @@ elementary-os
           version: Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz
           serial: To Be Filled By O.E.M.
           slot: LGA1200
-          size: 5032MHz
+          size: 5044MHz
           capacity: 5300MHz
           width: 64 bits
           clock: 100MHz
@@ -507,7 +507,7 @@ elementary-os
              clock: 33MHz
              capabilities: pm msi bus_master cap_list
              configuration: driver=snd_hda_intel latency=32
-             resources: iomemory:400-3ff iomemory:400-3ff irq:172 memory:4010310000-4010313fff memory:4010200000-40102fffff
+             resources: iomemory:400-3ff iomemory:400-3ff irq:16 memory:4010310000-4010313fff memory:4010200000-40102fffff
         *-serial:2
              description: SMBus
              product: Comet Lake PCH SMBus Controller
@@ -607,7 +607,7 @@ elementary-os
                 serial: cb4d721c-7d28-43dc-8097-deeadf40c390
                 size: 1GiB
                 capabilities: journaled extended_attributes large_files huge_files dir_nlink 64bit extents ext4 ext2 initialized
-                configuration: created=2021-03-19 04:17:41 filesystem=ext4 lastmountpoint=/boot modified=2021-03-26 04:28:37 mounted=2021-03-26 04:28:16 state=clean
+                configuration: created=2021-03-19 04:17:41 filesystem=ext4 lastmountpoint=/boot modified=2021-03-26 04:54:31 mounted=2021-03-26 04:54:02 state=clean
            *-volume:2
                 description: EFI partition
                 physical id: 3
@@ -662,8 +662,8 @@ elementary-os
   *-network
        description: Ethernet interface
        physical id: 2
-       logical name: veth69bf1a4
-       serial: 3e:3f:b7:79:95:41
+       logical name: veth6794ea9
+       serial: 86:b4:c5:3d:c9:ac
        size: 10Gbit/s
        capabilities: ethernet physical
        configuration: autonegotiation=off broadcast=yes driver=veth driverversion=1.0 duplex=full link=yes multicast=yes port=twisted pair speed=10Gbit/s
