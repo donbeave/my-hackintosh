@@ -674,7 +674,7 @@
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 agdpmod=pikera alcid=1 debug=0x100</string>
+				<string>-v debug=0x100 keepsyms=1 alcid=1 agdpmod=pikera</string>
 				<key>rtc-blacklist</key>
 				<data></data>
 			</dict>
@@ -902,7 +902,7 @@
 			<key>AppleBootPolicy</key>
 			<false/>
 			<key>AppleDebugLog</key>
-			<false/>
+			<true/>
 			<key>AppleEvent</key>
 			<false/>
 			<key>AppleFramebufferInfo</key>
