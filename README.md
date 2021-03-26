@@ -16,6 +16,19 @@
 | -------------------------------- | ------------------------------------ |
 | Discrete Thunderbolt(TM) Support | Enabled (Disabled for installation)  |
 
+#### PCI Subsystem Settings
+
+| Option              | Value                                |
+| ------------------- | ------------------------------------ |
+| Above 4G Decoding   | Enabled                              |
+| Re-Size BAR Support | Disabled                             |
+
+#### USB Configuration
+
+| Option              | Value                                |
+| ------------------- | ------------------------------------ |
+| XHCI Hand-off       | Enabled                              |
+
 ## SMBIOS
 
 | Name          | Value                                |
