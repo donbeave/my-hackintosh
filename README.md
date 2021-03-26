@@ -1,5 +1,15 @@
 # my-hackintosh
 
+## BIOS settings
+
+### Advanced
+
+#### System Agent (SA) Configuration
+
+| Option        | Value                                |
+| ------------- | ------------------------------------ |
+| VT-d          | Enabled                              |
+
 ## SMBIOS
 
 | Name          | Value                                |
