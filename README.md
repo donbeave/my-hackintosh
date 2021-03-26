@@ -10,6 +10,12 @@
 | ------------- | ------------------------------------ |
 | VT-d          | Enabled                              |
 
+#### Thunderbolt(TM) Configuration
+
+| Option                           | Value                                |
+| -------------------------------- | ------------------------------------ |
+| Discrete Thunderbolt(TM) Support | Enabled (Disabled for installation)  |
+
 ## SMBIOS
 
 | Name          | Value                                |
