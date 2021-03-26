@@ -1,5 +1,62 @@
 # my-hackintosh
 
+## BIOS settings
+
+### Advanced
+
+#### CPU Configuration
+
+| Option                                | Value                                |
+| ------------------------------------- | ------------------------------------ |
+| Software Guard Extensions (SGX)       | Disabled                             |
+| Intel (VMX) Virtualization Technology | Enabled                              |
+| Hyper-Threading                       | Enabled                              |
+
+#### System Agent (SA) Configuration
+
+| Option        | Value                                |
+| ------------- | ------------------------------------ |
+| VT-d          | Enabled                              |
+
+#### PCH Storage Configuration
+
+| Option              | Value                                |
+| ------------------- | ------------------------------------ |
+| SATA Mode Selection | AHCI                                 |
+
+#### Thunderbolt(TM) Configuration
+
+| Option                           | Value                                |
+| -------------------------------- | ------------------------------------ |
+| Discrete Thunderbolt(TM) Support | Enabled (Disabled for installation)  |
+
+#### PCI Subsystem Settings
+
+| Option              | Value                                |
+| ------------------- | ------------------------------------ |
+| Above 4G Decoding   | Enabled                              |
+| Re-Size BAR Support | Disabled                             |
+
+#### USB Configuration
+
+| Option              | Value                                |
+| ------------------- | ------------------------------------ |
+| XHCI Hand-off       | Enabled                              |
+
+### Boot
+
+#### CSM (Compatibility Support Module)
+
+| Option        | Value                                |
+| ------------- | ------------------------------------ |
+| Launch CSM    | Disabled                             |
+
+#### Boot Configuration
+
+| Option        | Value                                |
+| ------------- | ------------------------------------ |
+| Fast Boot     | Disabled                             |
+
 ## SMBIOS
 
 | Name          | Value                                |
