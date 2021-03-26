@@ -1,6 +1,16 @@
 # my-hackintosh
 
-##
+## SMBIOS
+
+| Name          | Value                                |
+| ------------- | ------------------------------------ |
+| System Model  | iMac20,2                             |
+| Serial Number | C02DL0MD046M                         |
+| MLB           | C02043300GU0000UE                    |
+| SmUUID        | 276D5B6E-6894-4CF0-ADFC-FC7384387173 |
+| ROM           | f0:18:98:3e:34:28                    |
+
+## Hardware
 
 | Category     | Model                                         | Code                          | Official Link             |
 | ------------ | --------------------------------------------- | ----------------------------- | ------------------------- |
