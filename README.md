@@ -10,6 +10,12 @@
 | ------------- | ------------------------------------ |
 | VT-d          | Enabled                              |
 
+#### PCH Storage Configuration
+
+| Option              | Value                                |
+| ------------------- | ------------------------------------ |
+| SATA Mode Selection | AHCI                                 |
+
 #### Thunderbolt(TM) Configuration
 
 | Option                           | Value                                |
@@ -28,6 +34,14 @@
 | Option              | Value                                |
 | ------------------- | ------------------------------------ |
 | XHCI Hand-off       | Enabled                              |
+
+### Boot
+
+#### CSM (Compatibility Support Module)
+
+| Option        | Value                                |
+| ------------- | ------------------------------------ |
+| Launch CSM    | Disabled                             |
 
 ## SMBIOS
 
