@@ -43,6 +43,12 @@
 | ------------- | ------------------------------------ |
 | Launch CSM    | Disabled                             |
 
+#### Boot Configuration
+
+| Option        | Value                                |
+| ------------- | ------------------------------------ |
+| Fast Boot     | Disabled                             |
+
 ## SMBIOS
 
 | Name          | Value                                |
