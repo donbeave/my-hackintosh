@@ -4,6 +4,14 @@
 
 ### Advanced
 
+#### CPU Configuration
+
+| Option                                | Value                                |
+| ------------------------------------- | ------------------------------------ |
+| Software Guard Extensions (SGX)       | Disabled                             |
+| Intel (VMX) Virtualization Technology | Enabled                              |
+| Hyper-Threading                       | Enabled                              |
+
 #### System Agent (SA) Configuration
 
 | Option        | Value                                |
