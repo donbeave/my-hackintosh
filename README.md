@@ -1,6 +1,6 @@
 # my-hackintosh
 
-## OpenCore and kexts
+## OpenCore, kexts and SSDTs
 
 1. https://github.com/acidanthera/OpenCorePkg
 2. https://github.com/acidanthera/VirtualSMC/releases
@@ -10,6 +10,7 @@
 6. https://github.com/acidanthera/NVMeFix/releases
 7. https://github.com/OpenIntelWireless/itlwm/releases
 8. https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases
+9. https://dortania.github.io/OpenCore-Install-Guide/ktext.html#ssdts
 
 ## BIOS settings
 
