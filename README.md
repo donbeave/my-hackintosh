@@ -3,7 +3,7 @@
 ## OpenCore, kexts and SSDTs
 
 1. https://github.com/acidanthera/OpenCorePkg
-2. https://github.com/acidanthera/VirtualSMC/releases
+2. https://github.com/acidanthera/VirtualSMC/releases (`VirtualSMC.kext`, `SMCProcessor.kext`, `SMCSuperIO.kext`)
 3. https://github.com/acidanthera/Lilu/releases
 4. https://github.com/acidanthera/WhateverGreen/releases
 5. https://github.com/acidanthera/AppleALC/releases
