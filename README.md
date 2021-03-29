@@ -1,5 +1,16 @@
 # my-hackintosh
 
+## OpenCore and kexts
+
+1. https://github.com/acidanthera/OpenCorePkg
+2. https://github.com/acidanthera/VirtualSMC/releases
+3. https://github.com/acidanthera/Lilu/releases
+4. https://github.com/acidanthera/WhateverGreen/releases
+5. https://github.com/acidanthera/AppleALC/releases
+6. https://github.com/acidanthera/NVMeFix/releases
+7. https://github.com/OpenIntelWireless/itlwm/releases
+8. https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases
+
 ## BIOS settings
 
 ### Advanced
