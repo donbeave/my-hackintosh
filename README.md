@@ -15,6 +15,7 @@
 ### Update process
 
 https://dortania.github.io/OpenCore-Post-Install/universal/update.html
+https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point
 
 ## BIOS settings
 
