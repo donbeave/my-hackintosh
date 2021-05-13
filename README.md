@@ -14,7 +14,9 @@
 
 ### Update process
 
-https://dortania.github.io/OpenCore-Post-Install/universal/update.html
+1. https://dortania.github.io/OpenCore-Post-Install/universal/update.html
+2. https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point
+3. https://dortania.github.io/Getting-Started-With-ACPI/ssdt-platform.html#desktop
 
 ## BIOS settings
 
