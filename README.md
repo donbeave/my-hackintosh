@@ -12,6 +12,10 @@
 8. https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases
 9. https://dortania.github.io/OpenCore-Install-Guide/ktext.html#ssdts
 
+### Update process
+
+https://dortania.github.io/OpenCore-Post-Install/universal/update.html
+
 ## BIOS settings
 
 ### Advanced
